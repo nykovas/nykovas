@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">📸 | Social Medias:</h2>
+<h2 align="left">📸 | Social Medias</h2>
 
 ###
 
