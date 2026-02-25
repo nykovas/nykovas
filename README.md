@@ -1,4 +1,4 @@
-<h1 align="left">👋 Nyk | Backend Developer (Python)</h1>
+<h1 align="left">👋 Nyk | Backend Dev </h1>
 
 ###
 
